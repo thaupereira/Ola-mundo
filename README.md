@@ -1,2 +1,2 @@
-# Ola-mundo
-meu primeiro repertorio versionado
+# Olá, mundo
+meu primeiro repositório do curso Git e GitHub
